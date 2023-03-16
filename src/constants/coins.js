@@ -39,9 +39,9 @@ export let GÖRLICoins = [
     marker: false,
   },
   {
-    name: "Kaju Token",
-    abbr: "KAJU",
-    address: "0x36200cA470824efab2581aa985B78152f38a4cd4",
+    name: "Unoswap V2",
+    abbr: "UNO-V2",
+    address: "0x1EE9002eeb2037E0364603B3785FD879fD507BA0",
     balance: 0,
     addedByUser: false,
     marker: false,
